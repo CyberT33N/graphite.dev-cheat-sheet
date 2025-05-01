@@ -79,6 +79,8 @@ ___
 <details><summary>Click to expand..</summary>
 
 
+
+
 # Quick start
 - https://graphite.dev/docs/cli-quick-start
 
@@ -262,6 +264,30 @@ t du das als `.md`-Datei exportiert haben oder direkt in ein bestehendes GitHub-
 
 
 </details>
+
+
+
+<br>
+<br>
+
+# Create PR
+
+
+```shell
+gt track main
+gt track refactor/PRIV-10/mvp-roo-code-v2/main
+
+gt submit
+```
+
+
+
+
+
+
+
+
+
 
 
 
